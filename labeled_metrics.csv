@@ -1,0 +1,2 @@
+Accuracy,Precision,Recall,F1 Score,Top3 Accuracy,NDCG@3,NDCG@5
+0.0769,0.0256,0.0769,0.0385,0.1538,0.1255,0.1255

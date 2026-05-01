@@ -1,0 +1,14 @@
+file,true_role,predicted_top1,predicted_top3,correct_top1,correct_top3
+Praveen Pandey (1).pdf,admin manager,cloud infrastructure security architect,"['cloud infrastructure security architect', 'cloud security analyst', 'technical writer']",False,False
+Naukri_HARSHWARDHANMISHRA[3y_4m].pdf,business analyst,business analyst,"['business analyst', 'operations manager', 'system engineer cloud and automation']",True,True
+Shaheer Alam.pdf,civil engineer,project manager,"['project manager', 'operations manager', 'cloud security analyst']",False,False
+Shaikh Rizvan.docx,civil engineer,robotics engineer,['robotics engineer'],False,False
+Resume - Riya Tiwari - Riya.pdf,cybersecurity,market research analyst,"['market research analyst', 'business analyst', 'data scientist']",False,False
+Shruti Sharma - shruti sharma.pdf,data scientist,ml ai engineer,"['ml ai engineer', 'ml infrastructure engineer', 'ai engineer']",False,False
+Avanish Frontend Developer Cv.pdf,frontend developer,front end developer,"['front end developer', 'web developer', 'full stack developer']",False,False
+MainaM (1).pdf,fullstack developer,back end developer,"['back end developer', 'devops cloud architect', 'data scientist']",False,False
+SatheeshS (1).pdf,fullstack developer,cloud architect,"['cloud architect', 'web developer', 'cloud solutions']",False,False
+Sneha_Charlekar.pdf,qa engineer,software tester sdet,"['software tester sdet', 'qa engineer', 'test automation engineer']",False,True
+Naukri_DeshDeepakDixit[8y_0m].pdf,sapb1consultant,operations manager,"['operations manager', 'data analyst', 'data engineer']",False,False
+Naukri_HemantKumar[3y_11m].pdf,sapb1consultant,business analyst,"['business analyst', 'game developer', 'operations manager']",False,False
+Naukri_Santhosh[7y_0m].docx,sapb1consultant,business analyst,"['business analyst', 'bi analyst', 'data scientist']",False,False
